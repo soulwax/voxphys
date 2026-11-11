@@ -69,3 +69,7 @@ class SegmentShape extends PhysShape {
     return null;
   }
 }
+
+typedef PhysSegment = SegmentShape;
+typedef PhysSegmentShape = SegmentShape;
+

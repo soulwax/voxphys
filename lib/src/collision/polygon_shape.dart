@@ -183,3 +183,7 @@ class PolygonShape extends PhysShape {
     return null;
   }
 }
+
+typedef PhysPolygon = PolygonShape;
+typedef PhysPolygonShape = PolygonShape;
+

@@ -74,3 +74,6 @@ class CircleShape extends PhysShape {
     return null;
   }
 }
+
+typedef PhysCircle = CircleShape;
+typedef PhysCircleShape = CircleShape;

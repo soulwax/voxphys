@@ -267,3 +267,9 @@ class RigidBody {
     }
   }
 }
+
+typedef PhysBody = RigidBody;
+typedef PhysRigidBody = RigidBody;
+typedef PhysFixture = Fixture;
+typedef PhysBodyDef = RigidBodyDef;
+
