@@ -1,0 +1,11 @@
+name: voxphys
+description: A fast, pure-Dart 2D rigid body physics engine with sequential impulse solver, SAT contact manifolds, joints, and broadphase queries.
+version: 0.1.0
+repository: https://github.com/soulwax/voxphys
+
+environment:
+  sdk: ^3.12.0
+
+dev_dependencies:
+  lints: ^3.0.0
+  test: ^1.25.0
