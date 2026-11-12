@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="voxphys logo"/>
+</p>
+
 # voxphys
 
 A fast, lightweight, pure-Dart 2D rigid body physics engine with sequential impulse constraint solver, SAT contact manifolds, joints, and broadphase queries.
